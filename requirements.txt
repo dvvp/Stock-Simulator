@@ -1,5 +1,4 @@
 voila
 numpy
 matplotlib
-time
 pandas
